@@ -1,0 +1,76 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Folclóricas de España</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="bbdd">Edit BBDD</string>
+    <string name="action_salir">Exit</string>
+    <string name="descripcion">Text Plain File Description</string>
+    <string name="url_video">Video URL</string>
+    <string name="insertar">Insert</string>
+    <string name="sobreescribir">Update</string>
+    <string name="borrar">Delete</string>
+    <string name="nombre">Name</string>
+    <string name="url_foto">Picture URL</string>
+    <string name="datosautomatico">Automatic Insert</string>
+
+    <string name="botonentrar">Edit BBDD</string>
+    <string name="botonacercade">About...</string>
+    <string name="botonsalir">Exit</string>
+    <string name="etiquetausuario">User Name</string>
+    <string name="etiquetapassword">Enter Your Pass</string>
+    <string name="textoboton">Login</string>
+    <string name="title_activity_opciones">Options</string>
+    <string name="btsalir">Exit</string>
+    <string name="acercade">Implemented and Designed by J.De la Puente to UCAM.</string>
+
+
+    <string name="youtube_api_demo">YouTube API Demos</string>
+
+    <string name="videowall_demo_name">Video Wall</string>
+    <string name="videolist_demo_name">Video List</string>
+    <string name="playerview_demo_name">Simple PlayerView</string>
+    <string name="player_controls_demo_name">Custom Player Controls</string>
+    <string name="action_bar_demo_name">Overlay ActionBar Demo</string>
+    <string name="fullscreen_demo_name">Custom Fullscreen Handling</string>
+
+    <string name="playerview_text">This is a YouTubePlayerView!</string>
+    <string name="playerfragment_text">This is a YouTubePlayerFragment!</string>
+
+    <string name="some_demos_disabled">* Your device is currently running Android API version <xliff:g id="current_version">%1$s</xliff:g>.</string>
+    <string name="list_item_disabled">Requires Android API version <xliff:g id="required_version">%1$s</xliff:g> or higher.</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="skip_to">Skip To</string>
+    <string name="seconds">secs</string>
+    <string name="player_style">Player Style</string>
+    <string name="def">Default</string>
+    <string name="minimal">Minimal</string>
+    <string name="chromeless">Chromeless</string>
+
+    <string name="play_video">Play video</string>
+    <string name="play_playlist">Play playlist</string>
+    <string name="play_video_list">Play video list</string>
+    <string name="start_index">Start index</string>
+    <string name="start_time">Start time (sec)</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="lightbox_mode">Lightbox mode</string>
+
+    <string name="intent_disabled">This intent is not supported with the currently installed version of YouTube.</string>
+    <string name="youtube_currently_installed">YouTube version installed on this device: <xliff:g id="youtube_version">%1$s</xliff:g>.</string>
+    <string name="youtube_not_installed">YouTube is not installed on this device.</string>
+
+    <string name="enter_fullscreen">Enter Fullscreen</string>
+    <string name="landscape_fullscreen">Always fullscreen in landscape</string>
+
+    <string name="actionbar_tutorial">This is a demo which shows how to use the ActionBar as an overlay when the video is playing in fullscreen. The actionbar will automatically fade away along with the player controls when the video is being played in fullscreen. While not in fullscreen the Actionbar is visible and does not overlay any of the views.</string>
+
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="action_youtube">Youtube</string>
+    <string name="Adios">Hasta Pronto</string>
+
+
+</resources>

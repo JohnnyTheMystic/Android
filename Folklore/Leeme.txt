@@ -1,0 +1,1 @@
+La carpeta folcloricas se debe pegar en el directorio raíz del almacenamiento externo del dispositivo Android.

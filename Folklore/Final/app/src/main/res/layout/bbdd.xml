@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nombre"
+            android:inputType="textPersonName" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono_busqueda" />
+
+            <TextView
+                android:id="@+id/urlfoto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/url_foto" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:visibility="visible"
+                android:src="@drawable/baseline_receipt_black_18dp" />
+
+            <TextView
+                android:id="@+id/descripcion"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:hint="@string/descripcion" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/videos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/url_video" />
+
+        <Button
+            android:id="@+id/btinsertar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/insertar" />
+
+        <Button
+            android:id="@+id/btupdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sobreescribir" />
+
+        <Button
+            android:id="@+id/btborrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/borrar" />
+
+        <Button
+            android:id="@+id/btsalir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/action_salir" />
+
+    </LinearLayout>
+</RelativeLayout>

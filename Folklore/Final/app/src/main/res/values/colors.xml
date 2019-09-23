@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Red" >#950000</color>
+    <color name="Red2" >#ae0808</color>
+    <color name="Titulo">#eaeaea</color>
+    <color name="background_material_light">#ca3a3b</color>
+    <color name="RedStatus">#700000</color>
+    <color name="Negro">#111</color>
+    <color name="Azulito">#229999</color>
+</resources>

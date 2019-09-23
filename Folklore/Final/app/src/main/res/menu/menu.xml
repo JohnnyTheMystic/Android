@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_login"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/login" />
+    <item
+        android:id="@+id/datosautomatico"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/datosautomatico" />
+    <item
+        android:id="@+id/action_salir"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/action_salir" />
+
+</menu>
